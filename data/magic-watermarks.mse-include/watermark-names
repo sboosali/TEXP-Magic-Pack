@@ -1,0 +1,29 @@
+# The watermark choices
+# Included by a game file
+
+choice:
+	name: none
+	line below: true
+choice:
+	name: mana symbol
+	choice: white
+	choice: blue
+	choice: black
+	choice: red
+	choice: green
+	choice: colorless
+choice:
+	name: custom watermark
+	choice: one
+	choice: two
+	choice: three
+	choice: four
+	choice: five
+	choice: six
+	choice: seven
+	choice: eight
+	choice: nine
+	choice: ten
+	choice: card
+choice:
+	name: set symbol
