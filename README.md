@@ -14,6 +14,14 @@ Pack containing normal M15 frames for MSE, along with a custom font for The Expa
 4. Inside the extracted folder, open the subfolder `Magic - Fonts`. It contains several `.ttf` and/or `.otf` files. Select them all, right-click on one of them, then click Install.
 5. Move or copy all other subfolders into your MSE folder.
 
+## Custom Set
+
+see metadata & example skeleton here:
+
+- `/sets/`
+- `/files/`
+- `/set symbols/`
+
 ## Font
 
 ### Protomolecule
