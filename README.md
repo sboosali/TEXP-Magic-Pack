@@ -18,9 +18,18 @@ Pack containing normal M15 frames for MSE, along with a custom font for The Expa
 
 see metadata & example skeleton here:
 
-- `/sets/`
+- `/sets/*.mse-set`
+- `/Magic - Fonts/Protomolecule.{otf,ttf,woff,woff2,sfd,svg}`
+- `/set symbols/*.mse-symbol`
+- `/data/magic-mainframe-extras.mse-include/texp/*.png`
 - `/files/`
-- `/set symbols/`
+
+usage:
+
+- `Custom Watermark 1` = `texp/logo-un.png`
+- `Custom Watermark 2` = `texp/logo-mcr.png`
+- `Custom Watermark 3` = `texp/logo-opa.png`
+
 
 ## Font
 
